@@ -32,7 +32,7 @@ const h1Styles = styled.h1(({ theme }) => ({
     width: "75px",
     height: "6px",
     marginTop: "15px",
-    background: "#ffcd00",
+    background: "#d01c29",
   },
 }));
 
