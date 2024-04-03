@@ -3727,25 +3727,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@whitespace/storybook-addon-html@npm:^5.1.6":
-  version: 5.1.6
-  resolution: "@whitespace/storybook-addon-html@npm:5.1.6"
+"@whitespace/storybook-addon-html@npm:^6.0.4":
+  version: 6.0.4
+  resolution: "@whitespace/storybook-addon-html@npm:6.0.4"
   peerDependencies:
-    "@storybook/addons": ^6.5.8 || ^7.0.12
-    "@storybook/api": ^6.5.8 || ^7.0.12
-    "@storybook/components": ^6.5.8 || ^7.0.12
-    "@storybook/core-events": ^6.5.8 || ^7.0.12
-    "@storybook/theming": ^6.5.8 || ^7.0.12
-    prettier: ^2.0.0
-    react: ^16.8.0 || ^17.0.0 || ^18.0.0
-    react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0
+    prettier: ^3.0.0
     react-syntax-highlighter: ^15.0.0
-  peerDependenciesMeta:
-    react:
-      optional: true
-    react-dom:
-      optional: true
-  checksum: 6e4374ef5d961282623e41e7fc9a921858d9b0abd5bdd7fbf9d3aae206bde436a3f724d23e5e2a0fbd7c10b01da5d7b94ce50f14c04730bd8841027a106313c9
+  checksum: 3d81d0bf8338b0286acb08b6b91e96ca36eb807e31bbdc38d851abc114012680f10857b4855f2a2f9f4b84ce1cd23ef928555afe2fb4b75d3ab63b74d2e9069a
   languageName: node
   linkType: hard
 
@@ -8187,7 +8175,7 @@ __metadata:
     "@storybook/vue3": ^7.5.2
     "@storybook/vue3-vite": ^7.5.2
     "@vue/tsconfig": ^0.1.3
-    "@whitespace/storybook-addon-html": ^5.1.6
+    "@whitespace/storybook-addon-html": ^6.0.4
     react: ^18.2.0
     react-dom: ^18.2.0
     react-syntax-highlighter: ^15.5.0
